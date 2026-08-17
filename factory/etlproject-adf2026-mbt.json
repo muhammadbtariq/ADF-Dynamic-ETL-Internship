@@ -1,0 +1,15 @@
+{
+	"name": "etlproject-adf2026-mbt",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a8c6cac-fb37-4b18-b53b-bc8704d5a4e3",
+		"tenantId": "973bca2b-b42d-4d00-bfe3-e2ae241016c7"
+	}
+}
